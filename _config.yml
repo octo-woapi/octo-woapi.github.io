@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: WOAPI & API Management
 email: woapi
-description: Nous vous proposons un ensemble de répository traitant de l'API management tel que nous la concevons et que nous la pratiquons chez nos client.
+description: Nous vous proposons un ensemble de projets traitants de l'API management tel que nous la concevons et que nous la pratiquons chez nos client.
 # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
